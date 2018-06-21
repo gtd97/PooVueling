@@ -1,5 +1,0 @@
-C:\Users\formacion\source\repos\PooVueling\PooVueling\bin\Debug\PooVueling.dll
-C:\Users\formacion\source\repos\PooVueling\PooVueling\bin\Debug\PooVueling.pdb
-C:\Users\formacion\source\repos\PooVueling\PooVueling\obj\Debug\PooVueling.csproj.CoreCompileInputs.cache
-C:\Users\formacion\source\repos\PooVueling\PooVueling\obj\Debug\PooVueling.dll
-C:\Users\formacion\source\repos\PooVueling\PooVueling\obj\Debug\PooVueling.pdb
